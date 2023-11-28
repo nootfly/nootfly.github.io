@@ -1,6 +1,9 @@
 ---
-layout: default
-title: Wiki tools
+layout: post
+title: "Wiki tools"
+date: 2023-11-28 16:22:00
+categories: tech
+tags: [wiki, tools, web]
 ---
 
 1. **Visual Studio Code (VS Code):** 
