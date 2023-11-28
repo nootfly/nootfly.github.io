@@ -1,3 +1,8 @@
+---
+layout: default
+title: Wiki tools
+---
+
 1. **Visual Studio Code (VS Code):** 
    - **Why It's Good:** It's a powerful, free, open-source editor with excellent Markdown support, including a live preview feature, extensions for enhanced Markdown functionality, and integrated Git control for versioning.
    - **Best For:** Developers or those comfortable with a more code-centric interface.
