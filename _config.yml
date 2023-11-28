@@ -8,13 +8,13 @@ url: "https://nootfly.github.io" # the base hostname & protocol for your site
 github_username:  nootfly
 
 
-navigation: # Define your navigation items here
-  - title: "Home"
-    url: "/"
-  - title: "Blog"
-    url: "/blog"
-  - title: "About"
-    url: "/about"
+# navigation: # Define your navigation items here
+#   - title: "Home"
+#     url: "/"
+#   - title: "Blog"
+#     url: "/blog"
+#   - title: "About"
+#     url: "/about"
 
 
 # Build settings
@@ -28,6 +28,19 @@ permalink: /:year/:month/:day/:title/
 #   posts:
 #     output: true
 #     permalink: /blog/:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
 
 
 # Plugins (if you're using any)
