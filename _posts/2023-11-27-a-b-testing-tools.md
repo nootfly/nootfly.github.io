@@ -27,3 +27,6 @@ When choosing a tool, consider:
 - Budget: Prices vary widely among these tools.
 
 It's often a good idea to start with a free tool like Google Optimize to understand the basics of A/B testing, then move to a more advanced tool as your needs evolve.
+
+### Notes:
+from ChatGPT
