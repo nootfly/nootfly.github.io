@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Wiki tools"
-date: 2023-11-28 16:22:00
+date: 2023-11-28 16:22:00 +1100
 categories: tech
-tags: [wiki, tools, web]
+tags: wiki tools web
 ---
 
 1. **Visual Studio Code (VS Code):** 
