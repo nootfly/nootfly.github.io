@@ -21,12 +21,13 @@ navigation: # Define your navigation items here
 theme: minima
 markdown: kramdown
 permalink: pretty
+permalink: /:year/:month/:day/:title/
 
 # Directory settings
-collections:
-  posts:
-    output: true
-    permalink: /blog/:year/:month/:day/:title/
+# collections:
+#   posts:
+#     output: true
+#     permalink: /blog/:year/:month/:day/:title/
 
 
 # Plugins (if you're using any)
