@@ -1,0 +1,34 @@
+# Site settings
+title: My wiki
+email: 
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my personal website where I blog about technology, design, and life.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nootfly.github.io" # the base hostname & protocol for your site
+github_username:  nootfly
+
+# Build settings
+theme: minima
+markdown: kramdown
+permalink: pretty
+
+# Plugins (if you're using any)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Optional settings
+author: Noot
+paginate: 20 # amount of posts to show
+paginate_path: "/blog/page:num/"
