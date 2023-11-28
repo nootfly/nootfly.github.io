@@ -30,10 +30,23 @@ github_username:  nootfly
 timezone: Australia/Sydney
 
 
+
+
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+
+header_pages:
+  - about.markdown 
+
+# navigation:
+#   - title: "Home"
+#     url: "/"
+#   - title: "About"
+#     url: "/about/"  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
