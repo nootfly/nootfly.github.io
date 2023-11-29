@@ -6,4 +6,5 @@ robots: noindex
 ---
 
 ## Posts tagged with AI
+- [2023 11 29 Models Types](/2023-11-29-models-types)
 - [2023 11 29 Ai Diagram Tools](/2023-11-29-ai-diagram-tools)
