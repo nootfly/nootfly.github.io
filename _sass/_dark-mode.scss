@@ -1,0 +1,22 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #282c35; // Dark background color
+        color: #f8f8f2; // Light text color
+    }
+
+    header, footer {
+        background-color: #21252b; // Slightly different background for header/footer
+        color: #f8f8f2;
+    }
+
+    a {
+        color: #8be9fd; // Bright color for links
+    }
+
+    a:hover {
+        color: #50fa7b; // Different color on hover for links
+    }
+
+    // Styling for other elements like buttons, nav, etc.
+    // Add similar blocks for each element you want to style in dark mode
+}
