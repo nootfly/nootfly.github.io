@@ -47,11 +47,11 @@ for tag, posts in tag_posts.items():
     tag_filename = os.path.join(tag_dir, tag + '.md')
     with open(tag_filename, 'w', encoding='utf8') as f:
         f.write('---\nlayout: tagpage\n' + '\ntag: ' + tag + '\nrobots: noindex\n---\n\n')
-        f.write('## Posts tagged with ' + tag + '\n')
-        for post in posts:
-            post_name = post.replace(post_dir, '').replace('.md', '')
-            post_title = post_name.replace('-', ' ').title()
-            f.write('- [' + post_title + '](' + '/' + post_name + ')\n')
+        # f.write('## Posts tagged with ' + tag + '\n')
+        # for post in posts:
+        #     post_name = post.replace(post_dir, '').replace('.md', '')
+        #     post_title = post_name.replace('-', ' ').title()
+        #     f.write('- [' + post_title + '](' + '/' + post_name + ')\n')
 
 print("Tag pages generated, count:", len(tag_posts))
 
