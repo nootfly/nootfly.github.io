@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: diagram"
+
 tag: diagram
 robots: noindex
 ---

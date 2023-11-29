@@ -46,7 +46,7 @@ else:
 for tag, posts in tag_posts.items():
     tag_filename = os.path.join(tag_dir, tag + '.md')
     with open(tag_filename, 'w', encoding='utf8') as f:
-        f.write('---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n\n')
+        f.write('---\nlayout: tagpage\n' + '\ntag: ' + tag + '\nrobots: noindex\n---\n\n')
         f.write('## Posts tagged with ' + tag + '\n')
         for post in posts:
             post_name = post.replace(post_dir, '').replace('.md', '')
