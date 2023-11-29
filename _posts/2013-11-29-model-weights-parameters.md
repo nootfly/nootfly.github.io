@@ -19,3 +19,6 @@ In the context of machine learning and neural networks, "weights" and "parameter
    - In more complex models, like those with convolutional layers (used in image processing) or recurrent layers (used in time series or language processing), parameters can include more than just the weights and biases of the neurons. They can also encompass things like the filters in convolutional layers or the gates in LSTM (Long Short-Term Memory) units.
 
 In summary, weights are a subset of parameters, specifically referring to the coefficients applied to input data in a model. Parameters encompass all the learnable elements of the model, including weights and biases. The goal of training a machine learning model is to find the optimal set of parameters (weights and biases) that minimizes the difference between the predicted and actual outputs, often measured by a loss function. The number of parameters in a model is a key factor in determining its complexity and capacity to learn from data.
+
+### Notes:
+from ChatGPT
