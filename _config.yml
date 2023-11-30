@@ -40,7 +40,7 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: dark  
+  skin: auto  
 
 
 header_pages:
