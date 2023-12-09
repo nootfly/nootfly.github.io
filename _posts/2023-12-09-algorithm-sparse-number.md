@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Algorithm - find both the minimum and maximum"
+title: "Algorithm - sparse number"
 date: 2023-12-09 17:50:00 +1100
 categories: tech
 tags: algorithms
