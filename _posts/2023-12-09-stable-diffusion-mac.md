@@ -3,7 +3,7 @@ layout: post
 title: "MLX"
 date: 2023-12-09 19:22:00 +1100
 categories: tech
-tags: ai
+tags: AI
 ---
 
 ## MLX
