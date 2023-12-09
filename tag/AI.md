@@ -1,7 +1,7 @@
 ---
 layout: tagpage
 
-tag: AI
+tag: ai
 robots: noindex
 ---
 
