@@ -6,10 +6,10 @@ categories: tech
 tags: AI tools
 ---
 
-** [Meta Imagine](https://imagine.meta.com)
+[Meta Imagine](https://imagine.meta.com)
 text to image
 
-** [ChatGPT](https://chat.openai.com)
+[ChatGPT](https://chat.openai.com)
 
-** [Stable Diffusion Web](https://stablediffusionweb.com/#ai-image-generator)
+[Stable Diffusion Web](https://stablediffusionweb.com/#ai-image-generator)
 
