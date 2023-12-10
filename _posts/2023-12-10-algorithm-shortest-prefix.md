@@ -32,7 +32,6 @@ To solve this problem, we can use a trie, which is a tree-like data structure us
 
 2. **Find Shortest Unique Prefixes**: For each word, travel down the trie until you reach a node where the count is 1 (which means no other word shares that prefix) or the end of the word. The path to this node forms the shortest unique prefix for that word.
 
-Certainly! Here's the Python code that finds the shortest unique prefix for each word in a given list:
 
 ```python
 class TrieNode:
