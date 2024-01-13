@@ -6,6 +6,12 @@ categories: tech
 tags: AI tools
 ---
 
+## [Bing Image Creator](https://www.bing.com/images/create?FORM=GENILP)
+text to image
+
+## [Microsoft Designer](https://designer.microsoft.com)
+Microsoft AI designer
+
 ## [Meta Imagine](https://imagine.meta.com)
 text to image
 
